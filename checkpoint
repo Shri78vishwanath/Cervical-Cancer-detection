@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\2022-23\\CERVICAL_CANCER\\cervical_cancer_updated\\cervicalcancer-0.001-2conv-basic.model"
+all_model_checkpoint_paths: "D:\\2022-23\\CERVICAL_CANCER\\cervical_cancer_updated\\cervicalcancer-0.001-2conv-basic.model"
